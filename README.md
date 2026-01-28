@@ -1,6 +1,6 @@
 # Find Best Images
 
-**Find Best Images** is a versatile tool for scanning directories to identify and organize the highest quality versions among similar images. Leveraging advanced similarity metrics—including deep learning-based embeddings and multiple quality measures—this tool automates the process of deduplication and organization of image collections. It is especially useful for artists, photographers, and AI trainers who need to curate the best images from large datasets.
+**Find Best Images** is a versatile tool for scanning directories to identify and organize the highest quality versions among similar images. Leveraging advanced similarity metrics, including deep learning-based embeddings and multiple quality measures, this tool automates the process of deduplication and organization of image collections. It is especially useful for artists, photographers, and AI trainers who need to curate the best images from large datasets.
 
 ## Features
 
